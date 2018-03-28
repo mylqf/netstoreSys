@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../netstoreSys/netstore-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netstoreSys/netstore-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netstoreSys/netstore-manager/netstore-manager-mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netstoreSys/netstore-manager/netstore-manager-mapper/1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netstoreSys/netstore-manager/netstore-manager-mapper/1/2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netstoreSys/netstore-manager/netstore-manager-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netstoreSys/netstore-manager/netstore-manager-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netstoreSys/netstore-manager/netstore-mananer-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../netstoreSys/netstore-parent" charset="UTF-8" />
+  </component>
+</project>

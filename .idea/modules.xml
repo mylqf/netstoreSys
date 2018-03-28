@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://J:/e3商城/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/mybatis/逆向工程/generatorSqlmapCustom/generatorSqlmapCustom.iml" filepath="J:/e3商城/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/mybatis/逆向工程/generatorSqlmapCustom/generatorSqlmapCustom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../netstoreSys/netstore-common/netstore-common.iml" filepath="$PROJECT_DIR$/../netstoreSys/netstore-common/netstore-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../netstoreSys/netstore-manager/netstore-manager.iml" filepath="$PROJECT_DIR$/../netstoreSys/netstore-manager/netstore-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../netstoreSys/netstore-manager/netstore-manager-mapper/netstore-manager-mapper.iml" filepath="$PROJECT_DIR$/../netstoreSys/netstore-manager/netstore-manager-mapper/netstore-manager-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../netstoreSys/netstore-manager/netstore-manager-pojo/netstore-manager-pojo.iml" filepath="$PROJECT_DIR$/../netstoreSys/netstore-manager/netstore-manager-pojo/netstore-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../netstoreSys/netstore-manager/netstore-manager-service/netstore-manager-service.iml" filepath="$PROJECT_DIR$/../netstoreSys/netstore-manager/netstore-manager-service/netstore-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../netstoreSys/netstore-manager/netstore-mananer-web/netstore-mananer-web.iml" filepath="$PROJECT_DIR$/../netstoreSys/netstore-manager/netstore-mananer-web/netstore-mananer-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../netstoreSys/netstore-parent/netstore-parent.iml" filepath="$PROJECT_DIR$/../netstoreSys/netstore-parent/netstore-parent.iml" />
+    </modules>
+  </component>
+</project>
